@@ -1,49 +1,26 @@
 # Vaibhav Sabnis 
 
+Hello World! I just hit *40* !! 
 
-Resume: [download pdf](https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/resume/vs/Vaibhav%20Sabnis.pdf)
-or [view directly on browser](
-https://docs.google.com/gview?url=https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/resume/vs/Vaibhav%20Sabnis.pdf&embedded=true")
+I am an engineer by education and have lived in Mumbai, London and New York (past 7 years) with my wife and two daugthers (8y,4y).
 
+Last few years of my life have been truly amazing! I have spent these watching my kids grow, and I just love it! 
 
+I am passionate about Capital Markets, Software engineering and building/fixing stuff. I love long drives (the backroads) and hindustani classical music. 
 
-#
+Below is a brief time-lapse of my key professional milestones (detailed resume document is available for [view](
+https://docs.google.com/gview?url=https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/resume/vs/Vaibhav%20Sabnis.pdf&embedded=true") | [download](https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/resume/vs/Vaibhav%20Sabnis.pdf) : 
+### 2020 
+* Joined Goldman Sachs as a Senior Engineering Manager with Core-Engineering architecture space. 
 
-## Welcome to GitHub Pages
+### 2005 
+* Joined Morgan Stanley in Mumbai as one of the very first software developers in the newly formed hedge fund services business line and left as an Executive Director, Technology. 
+* Over the course of next 15 years, helped build the technology for the MSFS business from scratch   
+* Shuttled between multiple offices/countries and ofcourse many (many) projects/products. 
 
-You can use the [editor on GitHub](https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 2003
+* Join Mastek in their java center of excellence group and helped create poc projects to win clients. Spent a good portion of my time in Mumbai and London. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+### 2002
+* First class with honors in Electronics & Telecommunication Engineering 
+* Internship with IIT-Mumbai on SIP
