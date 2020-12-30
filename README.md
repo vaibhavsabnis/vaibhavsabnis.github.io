@@ -1,3 +1,14 @@
+# Vaibhav Sabnis 
+
+
+Resume: [download pdf](https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/resume/vs/Vaibhav%20Sabnis.pdf)
+or [view directly on browser](
+https://docs.google.com/gview?url=https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/resume/vs/Vaibhav%20Sabnis.pdf&embedded=true")
+
+
+
+#
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
