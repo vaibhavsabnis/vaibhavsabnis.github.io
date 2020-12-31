@@ -29,6 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VaibhavSSabnis
 github_username:  vaibhavsabnis
 
+#additional overrides to minima variables
+linkedin_username: vaibhavsabnis
+author: Vaibhav Sabnis
+
 # Build settings
 theme: minima
 plugins:
