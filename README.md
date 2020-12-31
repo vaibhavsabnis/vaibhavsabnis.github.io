@@ -29,4 +29,8 @@ https://docs.google.com/gview?url=https://github.com/vaibhavsabnis/vaibhavsabnis
 Step 1: 
 Install Ruby 2.7.* from Ruby installer, choose all the 3 MSYS2 options
 Install Bundler from Bundler site 
-run command bundle init --> this creates a Gemfile
+Go to the repository folder 
+    bundle init --> this creates a Gemfile
+
+some gems may be missing so run 
+bundle install 
