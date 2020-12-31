@@ -2,7 +2,8 @@
 permalink: /digital-cv/
 ---
 
-Hello World! I just hit *40* !! 
+![Vaibhav]({{ site.baseurl }}/assets/img/vs_2010.PNG)
+Hello World!
 
 I am an engineer by education and have lived in Mumbai, London and New York (past 7 years) with my wife and two daugthers (8y,4y).
 
