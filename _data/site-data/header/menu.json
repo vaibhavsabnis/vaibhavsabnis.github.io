@@ -25,11 +25,11 @@
             "name" : "Projects", 
             "url"  : "/projects", 
             "title": "Interesting Projects that I was involved with"
-        }, 
+        },         
         {
-           "name" : "Blogs", 
-           "url"  : "/blogs", 
-           "title": "Latest blogs "
+            "name" : "Scratchpad", 
+            "url"  : "/scratchpad", 
+            "title":  "Scratch page sandbox testing"
         }, 
         {
             "name" : "Contact Me", 
