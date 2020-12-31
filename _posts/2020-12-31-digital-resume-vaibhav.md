@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Digital Resume (Vaibhav Sabnis) !"
+---
+**Resume document is available:**  
+[cv-browser-view]({{ site.baseurl }}/assets/resume/vs/Vaibhav Sabnis.pdf) | [cv-download](https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/resume/vs/Vaibhav%20Sabnis.pdf) 
+
+
+_Below is a brief time-lapse of my key professional milestones_ : 
+
+#### 2020 
+* Joined Goldman Sachs as a Senior Engineering Manager with Core-Engineering architecture space. 
+
+#### 2005 
+* Joined Morgan Stanley in Mumbai as one of the very first software developers in the newly formed hedge fund services business line and left as an Executive Director, Technology. 
+* Over the course of next 15 years, helped build the technology for the MSFS business from scratch   
+* Shuttled between multiple offices/countries and ofcourse many (many) projects/products. 
+
+#### 2003
+* Join Mastek in their java center of excellence group and helped create poc projects to win clients. Spent a good portion of my time in Mumbai and London. 
+
+#### 2002
+* First class with honors in Electronics & Telecommunication Engineering 
+* Internship with IIT-Mumbai on SIP
+
+#### 1980 
+* Hello World ! 
+
