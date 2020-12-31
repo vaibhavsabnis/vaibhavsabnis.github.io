@@ -1,0 +1,40 @@
+{
+"main-menu" : 
+    [
+        {
+            "name" : "Home", 
+            "url"  : "/", 
+            "title": "Senior Software Engineering Manager"
+        },
+        {
+            "name" : "About", 
+            "url"  : "/about", 
+            "title": "About Vaibhav Sabnis"
+        },
+        {
+            "name" : "Digital CV", 
+            "url"  : "/digital-cv", 
+            "title": "Vaihav Sabnis - Digital CV"
+        }, 
+        {
+            "name" : "Fun Facts", 
+            "url"  : "/fun-facts", 
+            "title":  "Some memorable facts"
+        }, 
+        {
+            "name" : "Projects", 
+            "url"  : "/projects", 
+            "title": "Interesting Projects that I was involved with"
+        }, 
+        {
+           "name" : "Blogs", 
+           "url"  : "/blogs", 
+           "title": "Latest blogs "
+        }, 
+        {
+            "name" : "Contact Me", 
+            "url"  : "/contact", 
+            "title": "Contact Vaibhav Sabnis"
+        }
+    ]
+}

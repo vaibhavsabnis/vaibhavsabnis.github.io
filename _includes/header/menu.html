@@ -1,0 +1,8 @@
+<nav>
+    <ol>
+        Now iterating over in the header
+        {% for menu in site.data.site-data.header.menu.main-menu%}
+            <li><a href="{{ menu.url " title="{{ menu.title }}">{{ menu.name }}</a></li>
+        {% endfor %}
+    </ol>
+</nav>
