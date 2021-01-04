@@ -1,0 +1,40 @@
+{
+"main-menu" : 
+    [
+        {
+            "name" : "Home", 
+            "url"  : "/", 
+            "title": "Senior Software Engineering Manager"
+        },
+        {
+            "name" : "About", 
+            "url"  : "/about", 
+            "title": "About Vaibhav Sabnis"
+        },
+        {
+            "name" : "Digital Intro", 
+            "url"  : "/digital-intro", 
+            "title": "Vaihav Sabnis - Introduction"
+        }, 
+        {
+            "name" : "Fun Facts", 
+            "url"  : "/fun-facts", 
+            "title":  "Some memorable facts"
+        }, 
+        {
+            "name" : "Projects", 
+            "url"  : "/projects", 
+            "title": "Interesting Projects that I was involved with"
+        },         
+        {
+            "name" : "Scratchpad", 
+            "url"  : "/scratchpad", 
+            "title":  "Scratch page sandbox testing"
+        }, 
+        {
+            "name" : "Contact Me", 
+            "url"  : "/contact", 
+            "title": "Contact Vaibhav Sabnis"
+        }
+    ]
+}

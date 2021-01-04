@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <a onclick="window.history.back()" title="Go back one page">Back</a>
+        {{ content }}
+      </div>
+    </main>
+    {%- include footer.html -%}
+&copy; {{ site.author }} {{ 'now' | date: "%Y" }}
+  </body>
+
+</html>
