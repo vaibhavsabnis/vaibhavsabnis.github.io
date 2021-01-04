@@ -14,7 +14,7 @@ I am passionate about Capital Markets, Software engineering and building and tin
 I am fairly fluent in Java and database technologies. 
 Currently am spending some time teaching (and learning) the python programming language with my 8 year old daughter. 
 
-If you would like to look at my professional resume, please visit [here]({{site.baseurl}}/2020/12/31/digital-resume-vaibhav.html)  
+If you would like to look at my professional resume, please visit [here]({{site.baseurl}}/digital-resume)  
 
 # -
 

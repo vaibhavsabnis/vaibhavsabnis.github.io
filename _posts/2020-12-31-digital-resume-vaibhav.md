@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Digital Resume - Vaibhav Sabnis !"
+permalink: /digital-resume
 ---
 **Resume document is available:**  
 [cv-pdf]({{site.baseurl}}/assets/resume/vs/Vaibhav-Sabnis.pdf "Open Vaibhav's resume in pdf format") | [cv-ms-word]({{site.baseurl}}/assets/resume/vs/Vaibhav-Sabnis.docx "Open Vaibhav's resume in MS-Word format") | [cv-json]({{site.baseurl}}/under-construction/ "Open Vaibhav's resume in JSON")
