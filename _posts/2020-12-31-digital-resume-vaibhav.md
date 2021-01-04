@@ -3,10 +3,10 @@ layout: post
 title:  "Digital Resume - Vaibhav Sabnis !"
 ---
 **Resume document is available:**  
-[cv-browser-view]({{ site.baseurl }}/assets/resume/vs/Vaibhav Sabnis.pdf) | [cv-json](https://{{site.baseurl}}/under-construction/)
+[cv-pdf]({{site.baseurl}}/assets/resume/vs/Vaibhav-Sabnis.pdf "Open Vaibhav's resume in pdf format") | [cv-ms-word]({{site.baseurl}}/assets/resume/vs/Vaibhav-Sabnis.docx "Open Vaibhav's resume in MS-Word format") | [cv-json]({{site.baseurl}}/under-construction/ "Open Vaibhav's resume in JSON")
 
 
-_Below is a brief time-lapse of my key **professional** milestones_ (To learn bit more about me, please visit [this]({{site.baseurl}}/digital-intro) link or browse through the [site-map]({{ site.baseurl }}/about/) !!): 
+_Below is a brief time-lapse of my key **professional** milestones_ ( To learn bit more about me, please visit [this]({{site.baseurl}}/digital-intro "Vaibhav's Introduction") link or browse through the [site-map]({{ site.baseurl }}/about/) !! ): 
 
 #### 2020 
 * Joined Goldman Sachs as a Senior Engineering Manager for the Core-Engineering department (SecDB architecture). 
