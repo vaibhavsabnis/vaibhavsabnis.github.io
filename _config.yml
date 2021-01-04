@@ -23,7 +23,8 @@ email: vaibhav.sabnis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Senior software engineering manager @GoldmanSachs 
   (Ex- Executive Director Technology @MorganStanley | Ex- Software Programmer @Mastek). 
-  Passionate about clean and extensible software, capital markets, hedge funds, driving and hindustani music. 
+  Passionate about clean, extensible and scalable software, capital markets, 
+  hedge funds, driving and hindustani music. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VaibhavSSabnis
@@ -32,6 +33,9 @@ github_username:  vaibhavsabnis
 #additional overrides to minima variables
 linkedin_username: vaibhavsabnis
 author: Vaibhav Sabnis
+
+#adding google analytics universal tracking id
+google_analytics: UA-186272648-1
 
 # Build settings
 theme: minima

@@ -25,7 +25,7 @@ Detailed installation instructions are on git [site](https://docs.github.com/en/
 
 Access your site on [localhost:4000](http://localhost:4000/)
 #
-## _How to copy them locally and convert the site to use "regular" theme_ 
+## _How to copy theme locally and convert the site to use "regular" theme_ 
 1. Run`bundle info --path minima` gives you the path to where the theme files are stored. Contents are in _includes, _layout, _sass, _assets folder. Copy over the necessary folder (keep structure intact in the target). This acts like an typical override function. 
 2. If you want to stop using minima theme then you have to copy all the above folders and then run following steps  
     1. Remove the configuration from _config.yml 
