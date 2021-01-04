@@ -3,7 +3,7 @@ layout: post
 title:  "Digital Resume - Vaibhav Sabnis !"
 ---
 **Resume document is available:**  
-[cv-browser-view]({{ site.baseurl }}/assets/resume/vs/Vaibhav Sabnis.pdf) | [cv-download](https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/resume/vs/Vaibhav%20Sabnis.pdf)
+[cv-browser-view]({{ site.baseurl }}/assets/resume/vs/Vaibhav Sabnis.pdf) | [cv-json](https://{{site.baseurl}}/under-construction/)
 
 
 _Below is a brief time-lapse of my key **professional** milestones_ (To learn bit more about me, please visit [this]({{site.baseurl}}/digital-intro) link or browse through the [site-map]({{ site.baseurl }}/about/) !!): 
