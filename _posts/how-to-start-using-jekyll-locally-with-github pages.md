@@ -1,4 +1,6 @@
 ---
+layout: page
+permalink: /techdocs/
 ---
 
 ## _Steps to install and run Jekyll site locally_
