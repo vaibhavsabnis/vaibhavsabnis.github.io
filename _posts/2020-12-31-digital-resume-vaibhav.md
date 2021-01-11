@@ -10,7 +10,7 @@ permalink: /digital-resume
 _Below is a brief time-lapse of my key **professional** milestones_ ( To learn bit more about me, please visit [this]({{site.baseurl}}/digital-intro "Vaibhav's Introduction") link or browse through the [site-map]({{ site.baseurl }}/about/) !! ): 
 
 #### 2020 
-* Joined Goldman Sachs as a Senior Engineering Manager for the Core-Engineering department (SecDB architecture). 
+* Joined Goldman Sachs as Sr. Engineering Manager for the Core-Engineering department (SecDB architecture). 
 
 #### 2005 
 * Joined Morgan Stanley in Mumbai as one of the very first software developers when the hedge fund services business line started.  
