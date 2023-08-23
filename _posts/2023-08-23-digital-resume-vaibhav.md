@@ -9,6 +9,9 @@ permalink: /digital-resume
 
 _Below is a brief time-lapse of my key **professional** milestones_ ( To learn bit more about me, please visit [this]({{site.baseurl}}/digital-intro "Vaibhav's Introduction") link or browse through the [site-map]({{ site.baseurl }}/about/) !! ): 
 
+#### 2021 
+* Joined Meta (f.ka. Facebook) as Engineering Manager to setup a 0 --> 1 team in NYC focused on ML Model Evaluation and Explainable Infra. The team and products have grown exponential, helping save Meta about ~1Bn / year on average. 
+
 #### 2020 
 * Joined Goldman Sachs as Sr. Engineering Manager for the Core-Engineering department (SecDB architecture). 
 
