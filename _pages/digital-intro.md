@@ -5,7 +5,7 @@ permalink: /digital-intro/
 
 ![Vaibhav]({{ site.baseurl }}/assets/img/vs_2010.PNG)
 
-I am an electronics engineer by education and a software programmer by profession. I have lived in Mumbai, London and New York (past 7 years) with my wife and two daugthers (8y,4y).
+I am an electronics engineer by education and a software programmer by profession. I have lived in Mumbai, London and New York (since 2013) with my wife and two daugthers (8y,4y).
 
 Last few years of my life have been truly amazing! I have spent these watching my kids grow, and I just love it! 
 
