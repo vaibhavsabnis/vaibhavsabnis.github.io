@@ -16,7 +16,7 @@ _Below is a brief time-lapse of my key **professional** milestones_ ( To learn b
 * Joined Goldman Sachs as Engineering Manager for the Core-Engineering department (SecDB architecture). Team built, extended and maintained the proprietary "Slang" language runtime ecosystem which was used to price and calculate risk for derivative products. 
 
 #### 2005 
-* Joined Morgan Stanley in Mumbai as one of the very first software engineer when the hedge fund services business line started. Over the course of time promoted and led multiple technology tooling initiatives globally.  
+* Joined Morgan Stanley in Mumbai as one of the very first software engineer when the hedge fund services business line started. Over the course of time entrusted to lead numerous technology tooling initiatives and operations globally.
 * Helped ideate, build and productionize the technology for the MSFS business from scratch. Tools focused on multiple aspects of alternative investment management domains: Tax / Investor / Portfolio accounting and Reporting, Investor Relations / AML tools, Trade reconciliations, Order Management and Payment Systems, Data Entitlements and regulatory compliance tooling.
 * Shuttled between multiple offices/countries and ofcourse many (many) projects/products/vendors that helped MSFS become one of the most preminent fund adminstrators on the street! 
 
