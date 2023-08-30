@@ -39,7 +39,8 @@ linkedin_username: vaibhavsabnis
 author: Vaibhav Sabnis
 
 #adding google analytics universal tracking id
-google_analytics: UA-186272648-1
+#google_analytics: UA-186272648-1
+google_analytics: G-38GEQ4ZHK8
 
 # Build settings
 theme: minima
