@@ -9,16 +9,26 @@ permalink: /digital-resume
 
 _Below is a brief time-lapse of my key **professional** milestones_ ( To learn bit more about me, please visit [this]({{site.baseurl}}/digital-intro "Vaibhav's Introduction") link or browse through the [site-map]({{ site.baseurl }}/about/) !! ): 
 
-#### 2021 - Present
-* Joined Meta (formerly Facebook Inc.) to establish 0 --> 1 team in NYC focused on ML Model Evaluation and Explainability Infrastructure. The team and products have grown exponentially to align with Meta's huge scale of operations. Tooling has helped save Meta about ~1Bn / year on average. 
+#### Meta (formerly Facebook) | New York | June 2021 - Present | Software Engineering Manager
 
-#### 2020 
-* Joined Goldman Sachs as Engineering Manager for the Core-Engineering department (SecDB architecture). Team built, extended and maintained the proprietary "Slang" language runtime ecosystem which was used to price and calculate risk for derivative products. 
+* Founded and expanded a North American engineering organization responsible for Machine Learning Model Validation and Evaluation, serving ~3 billion global users.
+* Developed partnerships, managed cross-functional teams, and achieved over USD 1.4 billion in annual savings through model validation tools.
+* Led the development of organizational culture, strategy, and observability techniques, reducing Time-to-Detect and Time-to-Mitigate.
 
-#### 2005 
-* Joined Morgan Stanley in Mumbai as one of the very first software engineer when the hedge fund services business line started. Over the course of time entrusted to lead numerous technology tooling initiatives and operations globally.
-* Helped ideate, build and productionize the technology for the MSFS business from scratch. Tools focused on multiple aspects of alternative investment management domains: Tax / Investor / Portfolio accounting and Reporting, Investor Relations / AML tools, Trade reconciliations, Order Management and Payment Systems, Data Entitlements and regulatory compliance tooling.
-* Shuttled between multiple offices/countries and ofcourse many (many) projects/products/vendors that helped MSFS become one of the most preminent fund adminstrators on the street! 
+
+#### Goldman Sachs | New York | 2020 - 2021 | Technology Vice President
+* Led initiatives to enhance the SecDB runtime ecosystem, fostering collaboration and a consistent analytics platform.
+* Modernized programming language design and implementation, aligning it with contemporary technology trends.
+
+#### Morgan Stanley Inc. | New York | 2006 - 2020 | Executive Director
+* Orchestrated the transformation of MSFS into a global fund servicing leader through cutting-edge technology solutions.
+* As Senior Director, formulated and executed comprehensive technology strategies, saving millions in yearly vendor license costs.
+* Established a central data warehouse and externalized data access through APIs, improving usability and scalability.
+* Established a senior engineering team focused on AML/KYC & Activity monitoring, contributing to a 7% annual revenue increase.
+* Conceptualized and led a digital transformation initiative, reducing content extraction time by 75% and improving client interaction time by 40%.
+* Managed a globally distributed organization, reducing back-office staffing needs by 10% YoY, resulting in annual savings of approximately 150 FTEs.
+* Managed engineering squads in the development of Tax and Investor accounting and allocation systems, improving sales revenue by 10% and providing a competitive advantage for the business.
+* Early senior developer, optimizing business operations and improving bill collection rates by 30%.
 
 
 #### 2003
