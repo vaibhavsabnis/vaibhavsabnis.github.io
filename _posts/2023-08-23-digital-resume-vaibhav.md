@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Digital Resume - Vaibhav Sabnis !"
+title:  "Digital One Pager - Vaibhav Sabnis !"
 permalink: /digital-resume
 ---
 **Resume document is available:**  
@@ -31,9 +31,9 @@ _Below is a brief time-lapse of my key **professional** milestones_ ( To learn b
 * Early senior developer, optimizing business operations and improving bill collection rates by 30%.
 
 
-#### 2003
+#### Mastek Ltd. | Mumbai | 2003 - 2006 | Software Programmer
 * Join Mastek in their java center of excellence group and helped create poc projects to win clients. Spent a good portion of my time in Mumbai (India) and London (UK). 
-* Left Mastek as a senior software programmer. 
+
 
 #### 2002
 * First class with honors in Electronics & Telecommunication Engineering from Mumbai, India
