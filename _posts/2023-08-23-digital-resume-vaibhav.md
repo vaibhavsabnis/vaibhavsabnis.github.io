@@ -11,12 +11,13 @@ _Below is a brief time-lapse of my key **professional** milestones_ ( To learn b
 
 #### Meta (formerly Facebook) | New York | June 2021 - Present | Software Engineering Manager
 
-* Founded and expanded a North American engineering organization responsible for Machine Learning Model Validation and Evaluation, serving ~3 billion global users.
-* Developed partnerships, managed cross-functional teams, and achieved over USD 1.4 billion in annual savings through model validation tools.
-* Led the development of organizational culture, strategy, and observability techniques, reducing Time-to-Detect and Time-to-Mitigate.
+ * Founded and expanded a North American engineering organization responsible for Machine Learning Model Validation and Evaluation, serving ~3 billion global users.
+ * Developed partnerships, managed cross-functional teams, and achieved over USD 1.4 billion in annual run rate savings through ML validation techniques and tools. 
+ * Built observability techniques and infrastructure, focusing on Time-to-Detect, Time-to-Mitigate and Time-to-Rootcause 
+ * Spearhead and formulate the development of organizational vision, culture, strategy by supporting managers and senior ICs (senior staff+).
 
-
-#### Goldman Sachs | New York | 2020 - 2021 | Technology Vice President
+#### Goldman Sachs | New York | 2020 - 2021 | Executive Director
+* Led the maintenance and management of organization metrics, goals and support senior managers running multiple initiatives (NY region.) 
 * Led initiatives to enhance the SecDB runtime ecosystem, fostering collaboration and a consistent analytics platform.
 * Modernized programming language design and implementation, aligning it with contemporary technology trends.
 
