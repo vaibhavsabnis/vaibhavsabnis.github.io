@@ -26,8 +26,10 @@ logo: https://github.com/vaibhavsabnis/vaibhavsabnis.github.io/raw/master/img/vs
 title: Vaibhav Sabnis
 email: vaibhav.sabnis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Engineering Manager @Meta
-  (Ex Senior software engineering manager @GoldmanSachs | Ex- Executive Director Technology @MorganStanley | Ex- Software Programmer @Mastek). 
+  Software Engineering Manager @Meta, 
+  
+  (Ex Executive Director @GoldmanSachs | Ex- Executive Director Technology @MorganStanley | Ex- Software Programmer @Mastek). 
+  
   Passionate about clean, extensible and scalable software, capital markets, hedge funds, driving and hindustani music. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -39,7 +41,8 @@ linkedin_username: vaibhavsabnis
 author: Vaibhav Sabnis
 
 #adding google analytics universal tracking id
-google_analytics: UA-186272648-1
+#google_analytics: UA-186272648-1
+google_analytics: G-38GEQ4ZHK8
 
 # Build settings
 theme: minima
